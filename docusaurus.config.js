@@ -3,7 +3,7 @@
 const config = {
   title: '107T Research Series',
   tagline: 'Papers on issues of interest to Isla Vista residents',
-  favicon: 'img/palm.svg',
+  favicon: 'img/zombie.svg',
 
   future: {},
 
@@ -41,7 +41,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      image: 'img/palm.svg',
+      image: 'img/zombie.svg',
       colorMode: {
         defaultMode: 'light',
         respectPrefersColorScheme: true,
