@@ -41,7 +41,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      image: 'img/zombie.svg',
+      image: 'img/palm.svg',
       colorMode: {
         defaultMode: 'light',
         respectPrefersColorScheme: true,
