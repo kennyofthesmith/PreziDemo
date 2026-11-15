@@ -8,9 +8,9 @@ const config = {
   future: {},
 
   url: 'https://kennyofthesmith.github.io',
-  baseUrl: '/student_template/',
+  baseUrl: '/PreziDemo/',
   organizationName: 'kennyofthesmith',
-  projectName: 'student_template',
+  projectName: 'PreziDemo',
   trailingSlash: false,
   onBrokenLinks: 'throw',
 
