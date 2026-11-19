@@ -6,6 +6,9 @@ hide_table_of_contents: true
 description: "A white paper urging local government to prepare Isla Vista for a zombie outbreak, with a four-step plan, a cost analysis, and student survey results."
 ---
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 # Defending our Home: Preparing Isla Vista for the Incoming Zombie Hordes
 
 <div className="byline">
@@ -66,7 +69,8 @@ We recognize the cost of these measures is quite large. We therefore suggest a 2
 ## 5. Survey {#survey}
 
 We distributed a survey among 173 college students. What we found was quite disturbing:
-
+<tabs>
+<TabItem value="q1" label="Question 1" default>
 <iframe
   title="I would shoot my fellow students in the leg to buy myself time when being chased by zombies."
   aria-label="Grouped column chart"
@@ -74,7 +78,17 @@ We distributed a survey among 173 college students. What we found was quite dist
   height="476"
   style={{ width: '100%', border: 'none' }}
 ></iframe>
-
+</TabItem>
+<TabItem value="q2" label="Question 2">
+<iframe
+  title="I feel comfortable firing a gun."
+  aria-label="Grouped column chart"
+  src="https://datawrapper.dwcdn.net/5Lwy8/"
+  height="476"
+  style={{ width: '100%', border: 'none' }}
+></iframe>
+</TabItem>
+</Tabs>
 Many respondents were unwilling to slow down a fellow student, even to save their own lives. This kind of loyalty is admirable in ordinary times, but in an outbreak it could doom everyone. A full description of the survey appears in Appendix A.
 
 We need to grow much more comfortable sacrificing our fellow humans if we are to survive.
