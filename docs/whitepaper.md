@@ -69,7 +69,7 @@ We recognize the cost of these measures is quite large. We therefore suggest a 2
 ## 5. Survey {#survey}
 
 We distributed a survey among 173 college students. What we found was quite disturbing:
-<tabs>
+<Tabs>
 <TabItem value="q1" label="Question 1" default>
 <iframe
   title="I would shoot my fellow students in the leg to buy myself time when being chased by zombies."
