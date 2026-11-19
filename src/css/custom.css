@@ -11,7 +11,7 @@
 /* You can play around with the color scheme and fonts in this section of the document */
 
 :root {
-  --paper-serif: 'Roboto', Georgia, 'Times New Roman', serif;
+  --paper-serif: 'Source Serif 4', Georgia, 'Times New Roman', serif;
   --paper-sans: 'Source Sans 3', system-ui, -apple-system, sans-serif;
   --paper-ink: #1c1e21;
   --paper-muted: #606770;
