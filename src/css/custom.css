@@ -28,7 +28,7 @@
   --ifm-color-primary-lightest: #7098f2;
  
   --ifm-font-family-base: var(--paper-serif);
-  --ifm-heading-font-family: var(--paper-serif);
+  --ifm-heading-font-family: var(--paper-sans);
   --ifm-font-family-monospace: 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace;
  
   --ifm-font-color-base: var(--paper-ink);
